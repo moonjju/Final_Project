@@ -30,6 +30,6 @@
 |------|------|
 |O/S|Windows 10|
 |Server|Apache Tomcat V9.0|
-|개발 언어|ava(JSP), Oracle 11g XE, HTML, CSS, JQuery, JSP, Oracle SQL, Java, Ajax|
+|개발 언어|Java(JSP), Oracle 11g XE, HTML, CSS, JQuery, JSP, Oracle SQL, Java, Ajax|
 |IDE|Eclipse(2020-06), VSCode, SQL Developer, STS|
 |라이브러리|ojdbc6, summernote, daum API, Import API, NAVER Sens API, kakao Login API, Kakao 지도 API, kakao 메시지 API, kakao 공유 API,  Google Login API, Google mail API, Delivery Tracker API, bootstrap|
